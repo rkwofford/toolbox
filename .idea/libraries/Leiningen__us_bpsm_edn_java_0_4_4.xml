@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: us.bpsm/edn-java:0.4.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/us/bpsm/edn-java/0.4.4/edn-java-0.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
